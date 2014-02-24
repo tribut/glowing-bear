@@ -486,7 +486,7 @@ weechat.controller('WeechatCtrl', ['$rootScope', '$scope', '$store', '$timeout',
         });
     }
 
-    var mobile_cutoff = 968;
+    var mobile_cutoff = 800;
 
     $rootScope.countWatchers = function () {
         var root = $(document.getElementsByTagName('body'));

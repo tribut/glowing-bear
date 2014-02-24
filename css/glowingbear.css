@@ -333,7 +333,7 @@ table.notimestamp td.time {
 /* */
 /* Mobile layout */
 /* */
-@media (max-width: 968px) {
+@media (max-width: 800px) {
     .message span {
         color: #C7C7C7;
     }
